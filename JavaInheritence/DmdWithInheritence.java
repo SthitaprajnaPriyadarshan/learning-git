@@ -19,6 +19,8 @@ class Violet extends Blue implements Red{
 	}
 }
 
+//Putting comments to be pulled
+
 public class DmdWithInheritence {
 	public static void main(String args[]) {
 		Violet V = new Violet();
