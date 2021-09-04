@@ -23,7 +23,7 @@ class Violet extends Blue implements Red{
 
 //Comments to create conflict - CCEP:65110
 
-//Comments to create push conflict - CCEP-22000
+//Comments to create push conflict - CCEP-1000
 
 public class DmdWithInheritence {
 	public static void main(String args[]) {
