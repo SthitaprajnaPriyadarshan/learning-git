@@ -27,6 +27,8 @@ class Violet extends Blue implements Red{
 
 //Comments to create push conflict - CCEP-2001
 
+//Comments to reflect at forked Repos
+
 public class DmdWithInheritence {
 	public static void main(String args[]) {
 		Violet V = new Violet();
