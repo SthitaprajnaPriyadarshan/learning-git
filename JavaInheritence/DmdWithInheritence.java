@@ -29,6 +29,8 @@ class Violet extends Blue implements Red{
 
 //Comments to reflect at forked Repos
 
+//Comments to reflect at forked Repos 2 for comparison
+
 public class DmdWithInheritence {
 	public static void main(String args[]) {
 		Violet V = new Violet();
